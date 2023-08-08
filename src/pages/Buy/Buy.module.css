@@ -1,0 +1,22 @@
+.wrapper{
+    margin-top: 30px;
+}
+.wrapper>a{
+    text-decoration: none;
+    color: #000000;
+    font-weight: 700;
+    padding-left: 100px;
+}
+.wrapper2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.wrapper2>div{
+    width: 37%;
+}
+.wrapper2>div>div>img{
+    width: 100px;
+    height: 60px;
+    margin-left: 15px;
+}

@@ -1,0 +1,15 @@
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #25B8E7;
+    color: #FFFFFF;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  
+  .wrapper>nav>a{
+    text-decoration: none;
+    color: #FFFFFF;
+    padding-left: 10px;
+  }
